@@ -12,8 +12,8 @@
 - **Template:** Google Docs (สำหรับสร้างรายงาน PDF)
 
 ## 📸 ตัวอย่างการใช้งาน (Screenshots/Demo)
-[ใส่รูปภาพหน้าจอระบบของคุณ หรือลิงก์วิดีโอ YouTube ตรงนี้]
+[ตัวอย่างการใช้งานระบบบันทึกข้อมูลการตรวจสุขภาพ.pdf](https://github.com/user-attachments/files/26231868/default.pdf)
 
 ## 🔗 ลิงก์ทดลองใช้งาน
-- [ลองกรอกแบบฟอร์มจำลอง](ใส่ลิงก์ Google Form ของคุณ)
-- [ดูหน้าตา Web App](ใส่ลิงก์ Web App ที่ Deploy แล้วของคุณ)
+- Google Forms Demo : https://forms.gle/S1d8dMngXHnwYChR6
+- Google Drive (PDF) Demo : https://drive.google.com/drive/folders/1ICyCfGU80-NzUmrZ6lxI5jykkLRNsrak?usp=sharing
